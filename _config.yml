@@ -21,12 +21,12 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://id4ac.github.io/'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'IDC Workshop'
+description: 'Interactive Design with Autistic Children using LLM and IoT for Personalized Training'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
+logo: "https://idc.acm.org/2024/wp-content/uploads/2023/10/cropped-cropped-logo-IDC24-orginieel-300x153.png"
 
 # Pagination
 paginate: 5
