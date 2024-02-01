@@ -113,6 +113,7 @@ GEM
     tzinfo (2.0.6)
       concurrent-ruby (~> 1.0)
     unicode-display_width (2.5.0)
+    wdm (0.1.1)
     webrick (1.8.1)
 
 PLATFORMS
@@ -130,6 +131,7 @@ DEPENDENCIES
   jekyll-seo-tag (~> 2.6.1)
   jekyll-sitemap (~> 1.4.0)
   jemoji (~> 0.12)
+  wdm (~> 0.1.1)
 
 BUNDLED WITH
    2.5.5
