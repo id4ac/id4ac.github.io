@@ -26,6 +26,11 @@ The suggested topics include (but not limited to):
 Accepted works will be invited to present their submissions in a dedicated presentation or demo session.
 
 
+# Important Dates
+- Participant submissions due: (on or before) April 15, 2024
+- Participants notified of acceptance: (on or before) May 1, 2024
+
+
 # Pre-workship Plans
 We are expecting the main target participants of the proposed workshop include researchers, designers, practitioners and children that are currently working on or being interested in the study involving Large Language Model(LLM), Large Visual Model(LVM), Internet-of-Things(IoT), and/or Smart Sensors for personalized training design for autistic children in an interactive approach. The various channels will be used to attract the potential participants, includes the mailing lists (e.g. CHI-kids mailing list), social medias (e.g. Tweet, Facebook, YouTube), university websites and conferences (e.g. DIS, CHI).
 
