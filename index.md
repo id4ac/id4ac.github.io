@@ -2,16 +2,16 @@
 title: ""
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Interactive Design with Autistic Children using LLM and IoT for Personalized Training
+  ## Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging
 ---
 
 
 # Workshop Description
-The emergence of generative artificial intelligence technology such as Large Language model(LLM), Large Vision Model(LVM) has presented promising outcomes in both academic and industrial domains. However, still few works have been focused on implementing these technologies for the underrepresented group of users, such as children with Autism Spectrum Disorder (ASD). In the meantime, the mainstream personalized training with interactive design for children with special needs still faces potential challenges. The goal of this workshop is serving as a platform that gathers researchers, practitioners, designers and children with diverse backgrounds to share the recent works, applications and ideas related to interactive design involving Large Language model(LLM) and Internet of Things(IoT) for personalized training for autistic children. Through hosting multiple activities during the half-day workshop, including oral presentation, demo and panel discussion, we hope to use this opportunity to further build a strong tie within the IDC community that devote to the children with special need and further inspire the research on taking advantage of the latest and robust technology for underrepresented group of users especially autistic children.
+The emergence of generative artificial intelligence technology such as Large Language Model (LLM), Large Vision Model (LVM) has presented promising outcomes in both academic and industrial domains and becomes ubiquitously used. However, still few works have been focused on implementing these technologies for children with Autism Spectrum Disorder(ASD). In the meantime, the mainstream personalized training with interactive design for children with special needs still faces potential challenges. As such, the goal of this workshop is to provide a platform for researchers, software and medical  practitioners, and designers to  share and debate both the pros and cons of the applying Large Language Model (LLM) and Internet of Things(IoT) for diagnosis and personalized training for autistic children. Through hosting multiple activities during the half-day workshop, including oral presentation, demo and panel discussion, we hope to use this opportunity to build a network of experts to dedicate our efforts on benefiting children with special needs and further inspire the research on taking advantage of the emerging ubiquitous technologies for these  under-privileged group users, caregivers and special education teachers. 
 
 
 # Call For Participation
-This workshop explores the benefits, challenges, and future directions for involving creative interactive design using LLMs and IoT with/for autistic children in personalized training. By engaging in presentations, demonstrations, and group discussions, participants will have the chance to exchange their related experiences and insights. Submissions of position papers, work-in-progress reports, or demonstration papers for a short presentation or demonstration that related to the interactive design with autistic children using LLM and IoT for personalized training are welcomed. Specifically, the proposed workshop is expecting:
+This workshop explores the benefits, challenges, and future directions for involving creative interactive design using LLMs and IoT with/for autistic children in personalized training. By engaging in presentations, demonstrations, and group discussions, participants will have the chance to exchange their related experiences and insights. Submissions of position papers, work-in-progress reports, or demonstration papers for a short presentation or demonstration that related to the interactive design with autistic children using LLM and IoT for personalized training or relevant fields are welcomed. Specifically, the proposed workshop is expecting:
 - Position papers (2-4 pages) discussing research questions, opportunities, benefits, or challenges
 - Work-in-progress reports (2-4 pages) highlighting current research
 - Demonstration papers (1 page) illustrating a leading-edge system in use, under development, or at a testing stage
@@ -22,13 +22,16 @@ The suggested topics include (but not limited to):
 - Large Language Models (LLMs), Large Vision Models (LVM) for special education
 - Technology-Based Intervention(TBI) for special education
 - Interactive design with children
+- Emerging Applications for special education
 
 Accepted works will be invited to present their submissions in a dedicated presentation or demo session.
 
 
 # Important Dates
-- Participant submissions due: (on or before) April 15, 2024
-- Participants notified of acceptance: (on or before) May 1, 2024
+- Submission Deadline:	   (on or before) June 7, 2024 AoE
+- Acceptance Notification: (on or before) June 28, 2024 AoE
+- Camera ready deadline:	 (on or before) July 26, 2024 AoE
+- Submission website:	     (on or before)  (TBA. Will use UbiComp official PCS )
 
 
 # Pre-workship Plans
