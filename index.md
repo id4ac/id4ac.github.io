@@ -49,7 +49,7 @@ This half-day (3-4 hours long) workshop will be served as a collective platform 
 6. **Closing and wrap-up** (20 minutes):Recap of workshop key points; Gratitude and acknowledgments.
 
 
-# Post-workship Plans
+# Post-workshop Plans
 To continue the long-term impact of the workshop and the creation of tangible outcomes, the following follow-up activities will be arranged: synchronizing all works (position papers, work-in-progress reports, and demonstration papers) presented in the proposed workshop and discuss outcomes on our workshop website with the permission from the author; inviting workshop participants to publish their works in a selected Journal Special Issue.
 
 
