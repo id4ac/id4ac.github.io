@@ -7,7 +7,7 @@ feature_text: |
 
 
 # Workshop Description
-The emergence of generative artificial intelligence technology such as Large Language Model (LLM), Large Vision Model (LVM) has presented promising outcomes in both academic and industrial domains and becomes ubiquitously used. However, still few works have been focused on implementing these technologies for children with Autism Spectrum Disorder(ASD). In the meantime, the mainstream personalized training with interactive design for children with special needs still faces potential challenges. As such, the goal of this workshop is to provide a platform for researchers, software and medical practitioners, and designers to share and debate both the pros and cons of applying the Large Language Model (LLM) and Internet of Things(IoT) for diagnosis and personalized training for autistic children. Through hosting multiple activities during the half-day workshop, including oral presentation, demo and panel discussion, we hope to use this opportunity to build a network of experts to dedicate our efforts on benefiting children with special needs and further inspire the research on taking advantage of the emerging ubiquitous technologies for these under-privileged users, caregivers and special education teachers. 
+The emergence of generative artificial intelligence technology such as the Large Language Model (LLM), the Large Vision Model (LVM) has presented promising outcomes in both academic and industrial domains and becomes ubiquitously used. However, still few works have been focused on implementing these technologies for children with Autism Spectrum Disorder(ASD). In the meantime, the mainstream personalized training with interactive design for children with special needs still faces potential challenges. As such, the goal of this workshop is to provide a platform for researchers, software and medical practitioners, and designers to share and debate both the pros and cons of applying the Large Language Model (LLM) and Internet of Things(IoT) for diagnosis and personalized training for autistic children. Through hosting multiple activities during the half-day workshop, including oral presentation, demo and panel discussion, we hope to use this opportunity to build a network of experts to dedicate our efforts on benefiting children with special needs and further inspire the research on taking advantage of the emerging ubiquitous technologies for these under-privileged users, caregivers and special education teachers. 
 
 
 # Call For Participation
@@ -16,7 +16,7 @@ This workshop explores the benefits, challenges, and future directions for invol
 - Work-in-progress reports (2-4 pages) highlighting current research
 - Demonstration papers (1 page) illustrating a leading-edge system in use, under development, or at a testing stage
 
-The suggested topics include (but not limited to):
+The suggested topics include (but are not limited to):
 - Optimized and personalized training for special education
 - AI, IoT, and/or Smart Sensors for special education
 - Large Language Models (LLMs), and/or Large Vision Models (LVM) for special education
@@ -35,7 +35,7 @@ Accepted works will be invited to present their submissions in a dedicated prese
 
 
 # Pre-workshop Plans
-We are expecting the main target participants of the proposed workshop include researchers, designers, practitioners and children that are currently working on or are interested in the study involving the Large Language Model(LLM), Large Visual Model(LVM), Internet-of-Things(IoT), and/or Smart Sensors for personalized training design for autistic children in an interactive approach. The various channels will be used to attract the potential participants, including the mailing lists (e.g. CHI-kids mailing list), social media (e.g. Tweet, Facebook, YouTube), university websites and conferences (e.g. DIS, CHI).
+We are expecting the main target participants of the proposed workshop include researchers, designers, practitioners and children who are currently working on or are interested in the study involving the Large Language Model(LLM), Large Visual Model(LVM), Internet-of-Things(IoT), and/or Smart Sensors for personalized training design for autistic children in an interactive approach. The various channels will be used to attract the potential participants, including the mailing lists (e.g. CHI-kids mailing list), social media (e.g. Tweet, Facebook, YouTube), university websites and conferences (e.g. DIS, CHI).
 
 
 # Workshop Structure
@@ -50,7 +50,7 @@ This half-day (3-4 hours long) workshop will serve as a collective platform that
 
 
 # Post-workshop Plans
-To continue the long-term impact of the workshop and the creation of tangible outcomes, the following follow-up activities will be arranged: synchronizing all works (position papers, work-in-progress reports, and demonstration papers) presented in the proposed workshop and discuss outcomes on our workshop website with the permission from the author; inviting workshop participants to publish their works in a selected Journal Special Issue.
+To continue the long-term impact of the workshop and the creation of tangible outcomes, the following follow-up activities will be arranged: synchronizing all works (position papers, work-in-progress reports, and demonstration papers) presented in the proposed workshop and discussing outcomes on our workshop website with the permission from the author; inviting workshop participants to publish their works in a selected Journal Special Issue.
 
 
 # Origanizers
@@ -60,4 +60,4 @@ To continue the long-term impact of the workshop and the creation of tangible ou
 
 **Yifan He** is an assistant professor at Dept. of Software Engineering, Zhejiang University of Finance and Economics. He received his Ph.D. and Master’s degree at the University of Tsukuba, Japan in 2023 and 2020, respectively. Currently, his research interests include evolutionary optimization and learning, and evolvable hardware. He aims to build an evolvable and intelligent problem-solving system. Previously, he received his Bachelor’s degree at Wenzhou Kean University, China in 2017, where he conducted several studies in HCI and assistive technology. His prior work was published at GECCO, HCII conferences and Operations Research Perspectives journals, etc. He is a reviewer of several journals and conferences, such as Information Sciences, IEEE Trans. on Evolutionary Computation, and ALIFE, etc.
 
-**Dr. Tiffany Y. Tang** is an associate professor at Wenzhou-Kean University. In May 2015, she co-founded the Center on Innovation and Assistive Technology for Autism & Neurodevelopmental Disorders at Wenzhou-Kean University (then called Wenzhou-Kean Autism Research Center). Till now, her team had published a total of 26 book chapters, journal and conference papers related to innovative technology for autism. Dr. Tang’s most recent research interests include affective computing and computational sensing on autism, sensing and wearable technologies for humans.
+**Dr. Tiffany Y. Tang** is an associate professor at Wenzhou-Kean University. In May 2015, she co-founded the Center on Innovation and Assistive Technology for Autism & Neurodevelopmental Disorders at Wenzhou-Kean University (then called Wenzhou-Kean Autism Research Center). Till now, her team has published a total of 26 book chapters, journal and conference papers related to innovative technology for autism. Dr. Tang’s most recent research interests include affective computing and computational sensing on autism, sensing and wearable technologies for humans.
