@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://id4ac.github.io/'
 baseurl: ''
-title: 'UbiComp 2024 Workshopp'
+title: 'UbiComp 2024 Workshop'
 description: 'Interactive Design with Autistic Children using LLM and IoT for Personalized Training: The Good, The Bad and The Challenging'
 permalink: pretty
 logo: "https://www.ubicomp.org/ubicomp-iswc-2024/wp-content/uploads/2023/09/web.jpg"
