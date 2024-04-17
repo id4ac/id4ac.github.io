@@ -34,7 +34,7 @@ paginate_path: blog/page:num
 
 # Footer nav
 navigation_footer:
-- title: Back to top | Designed bu Zian Jin
+- title: Back to top | Designed by Zian Jin
   url: "#top"
 
 # Collection settings
