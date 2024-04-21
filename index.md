@@ -34,11 +34,11 @@ Accepted works will be invited to present their submissions in a dedicated prese
 - Submission website:	     (on or before)  (TBA. Will use UbiComp official PCS )
 
 
-# Pre-workship Plans
-We are expecting the main target participants of the proposed workshop include researchers, designers, practitioners and children that are currently working on or being interested in the study involving Large Language Model(LLM), Large Visual Model(LVM), Internet-of-Things(IoT), and/or Smart Sensors for personalized training design for autistic children in an interactive approach. The various channels will be used to attract the potential participants, includes the mailing lists (e.g. CHI-kids mailing list), social medias (e.g. Tweet, Facebook, YouTube), university websites and conferences (e.g. DIS, CHI).
+<!-- # Pre-workship Plans
+We are expecting the main target participants of the proposed workshop include researchers, designers, practitioners and children that are currently working on or being interested in the study involving Large Language Model(LLM), Large Visual Model(LVM), Internet-of-Things(IoT), and/or Smart Sensors for personalized training design for autistic children in an interactive approach. The various channels will be used to attract the potential participants, includes the mailing lists (e.g. CHI-kids mailing list), social medias (e.g. Tweet, Facebook, YouTube), university websites and conferences (e.g. DIS, CHI). -->
 
 
-# Workshop Structure
+# Tentative Workshop Structure
 This half-day (3-4 hours long) workshop will be served as a collective platform that brings together researchers, practitioners, designers and children with diverse cultures and background to share their recent works, applications and creative ideas that contribute to the area focused on interactive design with autistic children using LLM, LVM and/or IoT for personalized training. The proposed workshop structure is as follows:
 
 1. **Welcome and Introduction** (15 minutes): The facilitator (one of the co-organizers) will introduce the theme of the workshop: Interactive design with autistic children using LLM and IoT for personalized training, followed by sharing the workshop agenda, addressing challenges and objectives.
@@ -48,9 +48,9 @@ This half-day (3-4 hours long) workshop will be served as a collective platform 
 5. **Open Discussion and Brainstorm** (30 minutes): Discussion on the current research works/outcomes, trends and challenges of involving LLM and IoT in interactive design with autistic children for assisting personalized learning for autistic children and brainstorming the potential future directions of the future works.
 6. **Closing and wrap-up** (20 minutes):Recap of workshop key points; Gratitude and acknowledgments.
 
-
+<!-- 
 # Post-workship Plans
-To continue the long-term impact of the workshop and the creation of tangible outcomes, the following follow-up activities will be arranged: synchronizing all works (position papers, work-in-progress reports, and demonstration papers) presented in the proposed workshop and discuss outcomes on our workshop website with the permission from the author; inviting workshop participants to publish their works in a selected Journal Special Issue.
+To continue the long-term impact of the workshop and the creation of tangible outcomes, the following follow-up activities will be arranged: synchronizing all works (position papers, work-in-progress reports, and demonstration papers) presented in the proposed workshop and discuss outcomes on our workshop website with the permission from the author; inviting workshop participants to publish their works in a selected Journal Special Issue. -->
 
 
 # Origanizers
@@ -58,6 +58,6 @@ To continue the long-term impact of the workshop and the creation of tangible ou
 
 **Mingyue Tang** is a Ph.D. student in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC). She received her master’s degree from the University of Virginia (UVa) Link Lab. Her research interests include wireless sensing, mobile computing, signal processing, and Internet of Things (IoT) in health. Through her work, she aims to create innovative solutions that can address real-world problems and make a positive impact on society. Her prior work was published at ICLR, KDD, IPSN, SenSys, etc. conferences, and ACM Transactions on Sensor Networks (TOSN), SPJ Health Data Science journals.
 
-**Yifan He** is an assistant professor at Dept. of Software Engineering, Zhejiang University of Finance and Economics. He received his Ph.D. and Master’s degree at the University of Tsukuba, Japan in 2023 and 2020, respectively. Currently, his research interests include evolutionary optimization and learning, and evolvable hardware. He aims to build an evolvable and intelligent problem-solving system. Previously, he received his Bachelor’s degree at Wenzhou Kean University, China in 2017, where he conducted several studies in HCI and assistive technology. His prior work was published at GECCO, HCII conferences and Operations Research Perspectives journals, etc. He is a reviewer of several journals and conferences, such as Information Sciences, IEEE Trans. on Evolutionary Computation, and ALIFE, etc.
+**Dr. Yifan He** is an assistant professor at Dept. of Software Engineering, Zhejiang University of Finance and Economics. He received his Ph.D. and Master’s degree at the University of Tsukuba, Japan in 2023 and 2020, respectively. Currently, his research interests include evolutionary optimization and learning, and evolvable hardware. He aims to build an evolvable and intelligent problem-solving system. Previously, he received his Bachelor’s degree at Wenzhou Kean University, China in 2017, where he conducted several studies in HCI and assistive technology. His prior work was published at GECCO, HCII conferences and Operations Research Perspectives journals, etc. He is a reviewer of several journals and conferences, such as Information Sciences, IEEE Trans. on Evolutionary Computation, and ALIFE, etc.
 
 **Tiffany Y. Tang** is an associate professor at Wenzhou-Kean University. In May 2015, she co-founded the Center on Innovation and Assistive Technology for Autism & Neurodevelopmental Disorders at Wenzhou-Kean University (then called Wenzhou-Kean Autism Research Center). Till now, her team had published a total of 26 book chapters, journal and conference papers related to innovative technology for autism. Dr. Tang’s most recent research interests include affective computing and computational sensing on autism, sensing and wearable technologies for human.
